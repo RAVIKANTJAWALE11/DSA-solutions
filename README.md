@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0766-toeplitz-matrix) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0766-toeplitz-matrix) |
 ## Binary Search
 |  |
