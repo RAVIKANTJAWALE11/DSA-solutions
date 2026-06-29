@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0766-toeplitz-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
