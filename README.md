@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0766-toeplitz-matrix) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
