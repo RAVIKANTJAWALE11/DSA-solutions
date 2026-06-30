@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
@@ -45,9 +46,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
