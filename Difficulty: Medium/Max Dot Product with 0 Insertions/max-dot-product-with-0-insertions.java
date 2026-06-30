@@ -8,10 +8,10 @@ class Solution {
         dp[0] = 0; 
         for (int i = 1; i <= n; i++) {
             for (int j = m; j >= 1; j--) {
-                int skipA = dp[j]; 
-                int pairBoth = dp[j - 1] + (A[i - 1] * B[j - 1]);
+                int skip = dp[j]; 
+                int pair = dp[j - 1] + (A[i - 1] * B[j - 1]);
 
-                dp[j] = Math.max(skipA, pairBoth);
+                dp[j] = Math.max(skip, pair);
             }
         }
 
