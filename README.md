@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1051-height-checker) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
@@ -55,5 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1051-height-checker) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
