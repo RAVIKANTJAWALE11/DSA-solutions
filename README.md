@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1051-height-checker) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
