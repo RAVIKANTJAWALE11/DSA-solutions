@@ -1,72 +1,34 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
-| [0074-search-a-2d-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
-| [0075-sort-colors](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0075-sort-colors) |
-| [0118-pascals-triangle](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0119-pascals-triangle-ii) |
-| [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
-| [0498-diagonal-traverse](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0498-diagonal-traverse) |
-| [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
-| [0766-toeplitz-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0766-toeplitz-matrix) |
-| [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
-| [1051-height-checker](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1051-height-checker) |
-| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
-## Hash Table
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
-## Matrix
-|  |
-| ------- |
-| [0073-set-matrix-zeroes](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
-| [0074-search-a-2d-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
-| [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
-| [0498-diagonal-traverse](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0498-diagonal-traverse) |
-| [0661-image-smoother](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0661-image-smoother) |
-| [0766-toeplitz-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0766-toeplitz-matrix) |
-## Binary Search
-|  |
-| ------- |
-| [0074-search-a-2d-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
-| [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
-## Simulation
-|  |
-| ------- |
-| [0498-diagonal-traverse](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0498-diagonal-traverse) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
-## String
-|  |
-| ------- |
-| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0075-sort-colors) |
-| [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0075-sort-colors) |
-| [0977-squares-of-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0977-squares-of-a-sorted-array) |
-| [1051-height-checker](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1051-height-checker) |
-| [2089-find-target-indices-after-sorting-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
-## Counting Sort
-|  |
-| ------- |
-| [1051-height-checker](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1051-height-checker) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0118-pascals-triangle](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0118-pascals-triangle) |
-| [0119-pascals-triangle-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0119-pascals-triangle-ii) |
-<!---LeetCode Topics End-->
+# Codeforces Solutions
+
+> Auto-generated by [CFPusher](https://github.com/SarJ2004/cf-pusher) for **ravikantjawale7**
+
+## 📊 Stats
+
+| Total Problems | Topics |
+|---|---|
+| 1 | 2 |
+
+---
+
+## 📂 Topic-Wise Problems
+
+- [brute force](#brute-force) (1)
+- [math](#math) (1)
+
+---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/RAVIKANTJAWALE11/DSA-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/RAVIKANTJAWALE11/DSA-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+
+---
+
+> Generated by [CFPusher — Codeforces to GitHub](https://github.com/SarJ2004/cf-pusher)
