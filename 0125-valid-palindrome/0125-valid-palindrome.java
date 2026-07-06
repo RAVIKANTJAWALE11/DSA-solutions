@@ -8,12 +8,8 @@ class Solution {
                 ch = (char)(ch + 32);
                 res += ch;
             }
-            else if (ch >= 97 && ch <= 122) {
-                res += ch;
-            }
-            else if (ch >= '0' && ch <= '9') {
-                res += ch;
-            }
+            else if (ch >= 97 && ch <= 122)  res += ch;
+            else if (ch >= '0' && ch <= '9') res += ch;
         }
         int m = res.length();
         for (int j = 0; j < m / 2; j++) {
@@ -21,7 +17,6 @@ class Solution {
                 return false;
             }
         }
-        
         return true;
     }
 }
