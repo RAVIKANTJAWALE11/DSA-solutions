@@ -11,7 +11,7 @@ class Solution {
             else if (ch >= 97 && ch <= 122) {
                 res += ch;
             }
-            else if (ch >= 48 && ch <= 57) {
+            else if (ch >= '0' && ch <= '9') {
                 res += ch;
             }
         }
