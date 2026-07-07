@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [1528-shuffle-string](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
