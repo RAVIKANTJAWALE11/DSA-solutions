@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0162-find-peak-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1528-shuffle-string) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
