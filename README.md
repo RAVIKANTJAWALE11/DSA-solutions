@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0162-find-peak-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
