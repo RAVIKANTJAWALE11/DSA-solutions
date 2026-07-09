@@ -1,19 +1,20 @@
 class Solution {
-    public String interpret(String com) {
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < com.length(); i++) {
-            if (com.charAt(i) == 'G')
-                sb.append("G");
-            else if (com.charAt(i) == '(') {
-                if (com.charAt(i + 1) == ')') {
-                    sb.append("o");
+    public String interpret(String command) {
+        StringBuilder res = new StringBuilder();
+        for (int i = 0; i < command.length(); i++) {
+            if ( command.charAt(i) == 'G') {
+                res.append("G");
+            } else {
+                if (command.charAt(i +1) == ')') {
+                    res.append("o");
                     i++;
                 } else {
-                    sb.append("al");
+                    res.append("al");
                     i += 3;
                 }
             }
         }
-        return sb.toString();
+
+        return res.toString();
     }
 }
