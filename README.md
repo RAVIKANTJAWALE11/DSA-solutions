@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0162-find-peak-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1528-shuffle-string) |
 | [1816-truncate-sentence](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1816-truncate-sentence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
