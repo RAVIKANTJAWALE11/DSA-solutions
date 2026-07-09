@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1528-shuffle-string) |
+| [1816-truncate-sentence](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1816-truncate-sentence) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
