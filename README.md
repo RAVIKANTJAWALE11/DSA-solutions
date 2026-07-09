@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0162-find-peak-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
