@@ -9,28 +9,20 @@ class Solution {
 			while (xy >= 0 && yx<s.length()) {
 				temp = s.substring(xy, yx + 1);
 				if (s.charAt(xy) == s.charAt(yx)) {
-				    if(ans.contains(temp)==false){
-				        ans.add(temp);
-				    }
+				    if(ans.contains(temp)==false) ans.add(temp);
 					xy--;
 					yx++;
-				} else {
-					break;
-				}
+				} else  break;
 			}
 			xy = i;
 			yx = i + 1;
 			while (xy >= 0 && yx<s.length()) {
 				temp = s.substring(xy, yx + 1);
 				if (s.charAt(xy) == s.charAt(yx)) {
-				 if(ans.contains(temp)==false){
-				        ans.add(temp);
-				    }
+				 if(ans.contains(temp)==false) ans.add(temp);
 					xy--;
 					yx++;
-				} else {
-					break;
-				}
+				} else break;
 			}
 		}
 		return ans;
