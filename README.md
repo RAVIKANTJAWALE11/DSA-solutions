@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0125-valid-palindrome) |
+| [0415-add-strings](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0066-plus-one) |
+| [0415-add-strings](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0415-add-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
