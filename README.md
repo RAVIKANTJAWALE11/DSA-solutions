@@ -48,6 +48,7 @@
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1706-where-will-the-ball-fall](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1706-where-will-the-ball-fall) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 ## Counting
 |  |
 | ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@
 | [0069-sqrtx](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
