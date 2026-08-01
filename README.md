@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -62,6 +63,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -82,6 +84,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
@@ -105,4 +108,12 @@
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
