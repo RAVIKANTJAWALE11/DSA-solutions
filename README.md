@@ -49,6 +49,7 @@
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1539-kth-missing-positive-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1706-where-will-the-ball-fall](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1706-where-will-the-ball-fall) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0441-arranging-coins) |
+| [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -116,4 +118,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
