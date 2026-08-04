@@ -132,4 +132,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
