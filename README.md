@@ -48,6 +48,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0867-transpose-matrix) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0069-sqrtx) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1539-kth-missing-positive-number) |
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1706-where-will-the-ball-fall) |
 ## Simulation
@@ -123,6 +126,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
