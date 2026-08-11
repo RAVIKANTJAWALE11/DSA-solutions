@@ -48,6 +48,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -190,4 +191,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
