@@ -58,6 +58,7 @@
 | [1539-kth-missing-positive-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1706-where-will-the-ball-fall](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1706-where-will-the-ball-fall) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3731-find-missing-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3731-find-missing-elements) |
 ## Design
 |  |
@@ -73,6 +74,7 @@
 | [0141-linked-list-cycle](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -195,4 +197,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0136-single-number) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
