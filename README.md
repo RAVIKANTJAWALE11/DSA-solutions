@@ -50,6 +50,7 @@
 | [0054-spiral-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -68,6 +69,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Hash Table
 |  |
