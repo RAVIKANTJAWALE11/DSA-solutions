@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0054-spiral-matrix) |
@@ -75,6 +76,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
