@@ -60,6 +60,7 @@
 | [1539-kth-missing-positive-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
 | [1706-where-will-the-ball-fall](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1706-where-will-the-ball-fall) |
+| [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -172,12 +175,14 @@
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
@@ -208,11 +213,13 @@
 | ------- |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
