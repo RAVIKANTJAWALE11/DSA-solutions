@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [1927-sum-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
@@ -233,4 +235,12 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
