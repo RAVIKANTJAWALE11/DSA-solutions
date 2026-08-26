@@ -16,9 +16,9 @@ class Solution {
             int mid = lo + (hi - lo) / 2;
             if (getDaysNeeded(mid, wgt) <= days) {
                 ans = mid;
-                hi = mid - 1; // Try finding a smaller valid capacity
+                hi = mid - 1; 
             } else {
-                lo = mid + 1; // Increase capacity
+                lo = mid + 1; 
             }
         }
         
