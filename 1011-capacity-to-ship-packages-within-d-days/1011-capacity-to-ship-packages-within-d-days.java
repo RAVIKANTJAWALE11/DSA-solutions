@@ -1,4 +1,3 @@
-
 class Solution {
     public int shipWithinDays(int[] wgt, int days) {
         int n = wgt.length;
