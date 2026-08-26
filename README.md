@@ -97,6 +97,7 @@
 | [0048-rotate-image](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
@@ -197,6 +198,7 @@
 | [0141-linked-list-cycle](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -262,4 +264,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
