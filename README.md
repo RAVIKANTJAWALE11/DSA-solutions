@@ -57,6 +57,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0867-transpose-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
 | [1706-where-will-the-ball-fall](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1706-where-will-the-ball-fall) |
@@ -136,6 +137,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0441-arranging-coins](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
