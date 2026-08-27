@@ -91,6 +91,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -118,6 +119,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | ------- |
 | [1927-sum-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,4 +274,8 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0445-add-two-numbers-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
