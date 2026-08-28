@@ -121,6 +121,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -281,4 +283,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
