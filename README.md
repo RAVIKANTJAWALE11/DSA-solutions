@@ -65,6 +65,7 @@
 | [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1929-concatenation-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0169-majority-element) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -284,4 +286,8 @@
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
