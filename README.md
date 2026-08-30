@@ -64,6 +64,7 @@
 | [1706-where-will-the-ball-fall](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1706-where-will-the-ball-fall) |
 | [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -168,6 +169,7 @@
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
