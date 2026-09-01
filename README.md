@@ -74,6 +74,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3731-find-missing-elements) |
 ## Design
@@ -96,6 +97,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3731-find-missing-elements) |
@@ -163,6 +165,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0867-transpose-matrix) |
 | [1706-where-will-the-ball-fall](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1706-where-will-the-ball-fall) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -261,6 +264,7 @@
 | [0136-single-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0136-single-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Manacher
 |  |
 | ------- |
@@ -298,4 +302,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
