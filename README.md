@@ -111,6 +111,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0441-arranging-coins) |
@@ -273,6 +274,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0136-single-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
