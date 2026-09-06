@@ -134,6 +134,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -214,6 +215,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
