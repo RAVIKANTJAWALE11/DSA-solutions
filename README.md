@@ -121,6 +121,7 @@
 | [0069-sqrtx](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0836-rectangle-overlap](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
@@ -356,4 +357,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
