@@ -96,6 +96,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -125,6 +126,7 @@
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +154,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
@@ -231,6 +234,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1872-stone-game-viii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
