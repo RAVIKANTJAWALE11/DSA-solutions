@@ -124,6 +124,7 @@
 | [0445-add-two-numbers-ii](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0836-rectangle-overlap](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0877-stone-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -365,4 +366,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
