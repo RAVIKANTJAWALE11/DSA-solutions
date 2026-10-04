@@ -372,4 +372,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
