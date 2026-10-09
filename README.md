@@ -375,6 +375,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1148-article-views-i) |
