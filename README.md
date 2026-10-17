@@ -382,6 +382,7 @@
 | [0620-not-boring-movies](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1148-article-views-i) |
+| [1193-monthly-transactions-i](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/RAVIKANTJAWALE11/DSA-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
